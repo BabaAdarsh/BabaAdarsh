@@ -32,9 +32,6 @@ My open-source toolboxes form a single research pipeline:
 - **[neural-decoding-kit](https://github.com/BabaAdarsh/neural-decoding-kit)** — decode movement from cortical populations: population-vector, Wiener, and Kalman (BCI) decoders, from scratch in NumPy. *Python · 6 tests.*
 - **[task-trained-rnn](https://github.com/BabaAdarsh/task-trained-rnn)** — an RNN trained (from-scratch BPTT) to reach develops the rotational population dynamics of motor cortex (Churchland 2012); includes jPCA. *Python · 9 tests.*
 
-### 🦾 Embodied control (research program)
-- **[motornet-experiments](https://github.com/BabaAdarsh/motornet-experiments)** — three novel pre-registered experiments in [MotorNet](https://elifesciences.org/articles/88591): emergent impedance under uncertainty, reliability-weighted multisensory feedback, and contextual competing memories — with a tested analysis layer. *Python · 13 tests.*
-
 ---
 
 <p align="center">
